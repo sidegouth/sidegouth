@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F7F7&random=false&width=435&lines=Hello+Friend...;Nice+to+meet+you+!+)](https://git.io/typing-svg)
+
+
 <div>
   <a href="https://github.com/sidegouth">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidegouth&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
