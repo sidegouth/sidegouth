@@ -13,3 +13,16 @@
   <img align="center" alt="sidegouth" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   
 <div/>
+
+<div class="rainbow"><div class="sprite"></div></div>
+<ul class="stars">
+  <li><i></i><li><i></i><li><i></i><li><i></i>
+  <li><i></i><li><i></i><li><i></i><li><i></i>
+  <li><i></i><li><i></i><li><i></i><li><i></i>
+</ul>
+<div class="cat">
+  <div class="tail"><div class="sprite"></div></div>
+  <div class="feet"><div class="sprite"></div></div>
+  <div class="poptart"></div>
+  <div class="head"></div>
+</div>
