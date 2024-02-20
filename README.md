@@ -11,9 +11,3 @@
     </div>
   </div>
 </div>
-<style>
-  @keyframes rainbow {
-    0% { background-position: 0 0; }
-    100% { background-position: 600% 0; }
-  }
-</style>
