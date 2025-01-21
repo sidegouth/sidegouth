@@ -7,3 +7,7 @@
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+<div align="right">
+  <img src="https://i.pinimg.com/736x/a0/cb/16/a0cb169aeb8653cb76a6fd01854999fd.jpg" alt="imagem que eu achei por aí" style="width:300px;"
+</div>
